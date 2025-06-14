@@ -1,0 +1,65 @@
+# ----- Apple (iOS/macOS) -----
+apple.com
+icloud.com
+cdn-apple.com
+mzstatic.com
+itunes.apple.com
+push.apple.com
+appldnld.apple.com
+apps.apple.com
+appleid.apple.com
+
+# ----- Google / Android -----
+google.com
+gstatic.com
+android.com
+play.google.com
+fcm.googleapis.com
+firebaseio.com
+googleapis.com
+accounts.google.com
+clients2.google.com
+clients3.google.com
+connectivitycheck.gstatic.com
+ota.googlezip.net
+
+# ----- Microsoft / Windows -----
+microsoft.com
+windowsupdate.com
+msftconnecttest.com
+msftncsi.com
+office.com
+outlook.office365.com
+live.com
+outlook.com
+skype.com
+bing.com
+
+# ----- Cloud & Sync -----
+dropbox.com
+onedrive.live.com
+drive.google.com
+docs.google.com
+sync.cloudflareclient.com
+
+# ----- Push Notification / Messaging -----
+notify.windows.com
+wns.windows.com
+wns2.windows.com
+fcm.googleapis.com
+edge-mqtt.facebook.com
+api.whatsapp.com
+
+# ----- Common CDN / Auth -----
+akamai.net
+akamaized.net
+cloudflare.com
+cloudfront.net
+safebrowsing.googleapis.com
+facebook.com
+fbcdn.net
+
+# ----- Other system-critical -----
+ntp.org
+time.apple.com
+time.windows.com
